@@ -18,6 +18,7 @@ body {
   background-color: #fdfcfc;
   font-size: 16px;
   border-radius: 7px;
+  margin: 1rem auto;
   overflow: hidden;
 }
 
@@ -185,6 +186,7 @@ a {
     width: 200px;
     height: 200px;
   }
+
   .first-card {
     height: 70px;
   }
